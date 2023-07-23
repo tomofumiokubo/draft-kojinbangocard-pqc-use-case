@@ -19,7 +19,7 @@
 # Change the file extension to match the format (.xml for XML, etc...)
 #
 ###
-title: "TODO - Your title"
+title: "A use case of PQ X.509 Certificates in Kojinbango Cards"
 abbrev: "TODO - Abbreviation"
 category: info
 
